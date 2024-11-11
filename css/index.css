@@ -5,11 +5,11 @@ body {
 }
 .title {
   background-color: #e7400c;
-  font-size: 15px;
+  font-size: 16px;
   text-align: center;
   color: #fff;
-  height: 75px;
-  line-height: 75px;
+  height: 76px;
+  line-height: 76px;
 }
 .content {
   padding: 0 5%;
@@ -22,16 +22,16 @@ body {
   padding: 20px 0;
 }
 .img > img {
-  width: 75px;
+  width: 80px;
 }
 .info {
   display: flex;
   align-items: center;
   justify-content: left;
-  padding: 15px 0;
+  padding: 16px 0;
   border-top: 1px solid #f6f6f6;
   color: #8f8f8f;
-  font-size: 13px;
+  font-size: 14px;
 }
 .info .l {
   width: 30%;
