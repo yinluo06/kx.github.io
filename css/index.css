@@ -23,6 +23,8 @@ body {
 }
 .img > img {
   width: 90px;
+  display: block;
+  object-fit: fill;
 }
 .info {
   display: flex;
