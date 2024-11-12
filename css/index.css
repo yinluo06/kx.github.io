@@ -22,7 +22,7 @@ body {
   padding: 20px 0;
 }
 .img > img {
-  height: 102px;
+  width: 102px;
   height: 150px;
   display: block;
   object-fit: fill;
