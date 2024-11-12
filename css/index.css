@@ -22,7 +22,7 @@ body {
   padding: 20px 0;
 }
 .img > img {
-  height: 130px;
+  height: 150px;
   display: block;
   object-fit: fill;
 }
@@ -30,7 +30,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: left;
-  padding: 16px 0;
+  padding: 20px 0;
   border-top: 2px solid #f6f6f6;
   color: #8f8f8f;
   font-size: 14px;
