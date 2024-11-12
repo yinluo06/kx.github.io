@@ -20,9 +20,9 @@ body {
   align-items: center;
   justify-content: center;
   padding: 20px 0;
+  margin-bottom: 30px;
 }
 .img > img {
-  width: 104px;
   height: 150px;
   display: block;
   object-fit: fill;
